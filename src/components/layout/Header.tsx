@@ -24,7 +24,7 @@ const Header = () => {
 
 
       <div className="flex  xs:text-lg font-bold">
-        <Link href="/">
+       
           <Image
             src="/logo.png"
             alt="logo"
@@ -32,7 +32,7 @@ const Header = () => {
             height={150}
             className="ml-2 mt-5  md:ml-3 md:mt-3 max-w-full h-auto"
           />
-        </Link>
+       
       </div>
 
 
